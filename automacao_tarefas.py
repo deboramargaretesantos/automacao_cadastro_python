@@ -1,5 +1,6 @@
 import pyautogui
 import time
+import pandas as pd
 
 pyautogui.PAUSE = 0.5
 
@@ -21,6 +22,7 @@ pyautogui.write('****')
 pyautogui.press ('enter')
 
 time.sleep (3)
+
 
 
 
